@@ -1,0 +1,2 @@
+Zostało zauważono ze użytkownicy które częścią stawią pewne oceny filmom, przy nowych filmach raczej również postawią podobną ocenę, na podstawie takiej informacji został użyty KNN z poprzedniego zadania podając dla wytrenowania tylko id użytkownika oraz ocenę.
+Podobność jest obliczana za pomocą odległości euklidesowej pomiędzy badanym filmem a  każdym innym w zbiorze

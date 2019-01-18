@@ -1,0 +1,1 @@
+Do wytrenowania zostałe użyte takie kolumny jak user id oraz ocena filmu. Takie dane są wystarczające dla dobrej predykcji oceny.
